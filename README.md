@@ -1,0 +1,2 @@
+# Shaman
+ Solving square uravneniya
